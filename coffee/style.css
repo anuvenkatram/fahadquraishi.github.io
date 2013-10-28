@@ -1,0 +1,45 @@
+body{
+	font-family:Helvetica;
+}
+
+#dreamlogo {
+	color: #e4d2a7;
+	font-family:fantasy;
+	text-transform:lowercase;
+}
+
+h1 {
+	font-family:;
+	text-transform:uppercase;
+	color:white;
+	text-align:center;
+}
+
+h2 {
+	color:saddlebrown;
+	font-weight:bold;
+}
+
+p {
+	text-transform:lowercase;
+}
+
+#topmenu{
+	text-align:center;
+	border: 1.05px solid;
+	text-decoration: none;	
+	color: #e4d2a7;
+	background-color:#2E0F00;
+	word-spacing:30px;
+}
+nav{
+	text-align:center;
+	border: 1.05px solid;
+	text-decoration: none;	
+	color: #e4d2a7;
+	background-color:#2E0F00;
+}
+nav a:visited{
+	color: #e4d2a7;
+	text-decoration:none;
+}
