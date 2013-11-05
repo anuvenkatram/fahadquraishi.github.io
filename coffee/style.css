@@ -1,15 +1,19 @@
 body{
 	font-family:Helvetica;
 }
+a{
+	text-decoration:none;
+}
 
 #dreamlogo {
-	color: #e4d2a7;
+	color: #cebb99;
 	font-family:fantasy;
 	text-transform:lowercase;
 }
+upperc
+	border-bottom: 2px dashed #cebb99;
 
 h1 {
-	font-family:;
 	text-transform:uppercase;
 	color:white;
 	text-align:center;
@@ -18,10 +22,12 @@ h1 {
 h2 {
 	color:saddlebrown;
 	font-weight:bold;
+	background-color:white;
 }
 
 p {
 	text-transform:lowercase;
+	background-color:white;
 }
 
 #topmenu{
@@ -29,17 +35,17 @@ p {
 	border: 1.05px solid;
 	text-decoration: none;	
 	color: #e4d2a7;
-	background-color:#2E0F00;
+	background-color:#230b03;
 	word-spacing:30px;
 }
 nav{
 	text-align:center;
 	border: 1.05px solid;
 	text-decoration: none;	
-	color: #e4d2a7;
-	background-color:#2E0F00;
+	color: #a38f74;
+	background-color:#230b03;
 }
 nav a:visited{
-	color: #e4d2a7;
+	color: #a38f74;
 	text-decoration:none;
 }
