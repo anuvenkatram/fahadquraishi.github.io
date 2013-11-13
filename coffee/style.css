@@ -1,28 +1,60 @@
+header {
+	background-image: url("beans.jpg");
+}
+
+.logo {
+	background-image: url('beans-logo.png');
+	width:136px;
+	height: 178px;
+	margin: 0 auto;
+}
+
+li {
+	list-style: none;
+	display:inline;
+	padding: 0 10px;
+}
+
+ul {
+	text-align: center;
+	padding:0;
+}
+
+.bg{
+	background-color:#230b03;
+}
+
+nav{
+	padding-bottom:10px;
+}
+
 body{
 	font-family:Helvetica;
+	width: 1024px;
 }
+
 a{
 	text-decoration:none;
 }
 
-#dreamlogo {
-	color: #cebb99;
-	font-family:fantasy;
-	text-transform:lowercase;
-}
-upperc
-	border-bottom: 2px dashed #cebb99;
-
-h1 {
-	text-transform:uppercase;
-	color:white;
+.col {
+	margin:0 auto;
+	float:left;
+	width:50%;
 	text-align:center;
 }
 
-h2 {
+footer{
+	color:#a38f74;
+	text-align:center;
+	clear:both;
+}
+
+
+
+li a {
 	color:saddlebrown;
 	font-weight:bold;
-	background-color:white;
 }
 
 p {
@@ -30,7 +62,7 @@ p {
 	background-color:white;
 }
 
-#topmenu{
+.topmenu{
 	text-align:center;
 	border: 1.05px solid;
 	text-decoration: none;	

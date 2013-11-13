@@ -1,0 +1,29 @@
+.navbar-default {
+	background-color:white;	
+}
+
+
+.navbar-nav { 
+	float:right;
+	margin-top:15px;
+}
+
+.bartext {
+	font-size:24px;
+	list-style:none;
+ 	margin-top:20px;
+}
+
+.bartext li {
+	display:inline;
+	padding-right:40px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+img.GooglePlay {
+	float:right;
+}
