@@ -4,7 +4,7 @@
 }
 
 section#home.freelancer {
-  background:##9b59b6;
+  background: #f0eee8 url('../img/bg-freelancer.jpg') top center no-repeat;
 }
 
 .btn {
