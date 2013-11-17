@@ -2,3 +2,21 @@
   height:170px;
   width:170px;
 }
+
+section#home.freelancer {
+  background:##9b59b6;
+}
+
+.btn {
+  background: #2980b9;
+}
+
+.btn.cta {
+  background:#8e44ad;
+  box-shadow: 0 6px #9b59b6;
+}
+
+#home span {
+  color:#2980b9;
+  font-weight:bolder;
+}
