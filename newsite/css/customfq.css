@@ -1,14 +1,15 @@
 .span3 img{
   height:170px;
-  width:170px;
+  width:170px;  
 }
 
 section#home.freelancer {
-  background: #e05a54 url('../img/bg-freelance.jpg') top center no-repeat;
+  background:rgba(134, 201, 239, 0.5) url('../img/bg-freelance.jpg') top center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 }
 
 .btn {
@@ -21,6 +22,13 @@ section#home.freelancer {
 }
 
 #home span {
-  color:#2980b9;
+  color:#e05a54;
   font-weight:bolder;
+}
+
+section#home.freelancer h1 {
+  color:white;
+  font-weight:bolder;
+  font-size:36pt;
+  background-color: rgba(248, 247, 216, 0.7);
 }
