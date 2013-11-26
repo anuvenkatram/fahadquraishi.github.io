@@ -22,13 +22,38 @@ section#home.freelancer {
 }
 
 #home span {
-  color:#e05a54;
+  color:#e74c3c;
   font-weight:bolder;
+  /*background-color: rgba(255, 255, 255, 0.4);*/
 }
 
 section#home.freelancer h1 {
-  color:white;
+  color:#8e44ad;
   font-weight:bolder;
-  font-size:36pt;
-  background-color: rgba(248, 247, 216, 0.7);
+  font-size:28pt;
+}
+
+.header-cta {
+  margin:0;
+}
+
+#mertBox{
+  width: 700px;
+}
+#mertBox h1{
+  background: rgba(255,255,255,0.75);
+  color:#e74c3c;
+  border:0 solid;
+  border-radius:10px;
+  font-weight:900;
+}
+
+#home .hero-content h1 {
+  margin: 0 auto;
+  width:65%;
+  padding:10px;
+}
+
+section#footer-cta {
+background: #95a5a6;
 }

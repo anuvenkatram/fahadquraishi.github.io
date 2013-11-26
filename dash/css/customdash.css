@@ -1,0 +1,20 @@
+section#home.featured {
+  background: #f0eee8 url('../img/heroband.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+section#about {
+	background-color:white;
+}
+
+section {
+	color:black;
+}
+
+section h1 {
+	font-size:24pt;
+	text-transform:capitalize;
+}
